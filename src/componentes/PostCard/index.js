@@ -9,6 +9,7 @@ export default function PostCard({ post }) {
                 <img
                     className={styles.capa}
                     src={`/assets/posts/${post.id}/capa.png`}
+                   
                     alt="Imagem de capa do post"
                 />
 
