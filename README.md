@@ -20,7 +20,7 @@ Valorizamos a sua participação! Sinta-se à vontade para contribuir com artigo
 
 🌐 Visite o Blog:
 
-Explore nossos artigos mais recentes e mergulhe no mundo da tecnologia visitando o [Blog Wallace](https://www.example.com).
+Explore nossos artigos mais recentes e mergulhe no mundo da tecnologia visitando o [Blog Wallace](https://blog-wallace.vercel.app/)
 
 Siga, estrela e compartilhe nosso repositório para receber atualizações regulares sobre novos conteúdos e tendências do universo de desenvolvimento.
 
