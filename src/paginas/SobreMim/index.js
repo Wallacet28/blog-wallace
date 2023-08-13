@@ -21,11 +21,17 @@ export default function SobreMim() {
             />
 
             <p className={styles.paragrafo}>
-            Deixa eu te contar um pouco sobre mim e minha jornada incrível até aqui.
-             Sou movido por uma força imparável que me impulsiona a superar grandes desafios e buscar 
-             constantemente o sucesso. Desde o início da minha trajetória como auxiliar de cozinha em uma
-              cozinha industrial, sempre tive essa fome insaciável por conhecimento, e isso me levou a explorar
-               um mundo completamente novo: a programação.
+            Minha jornada é única e inspiradora. Originário do interior, passei meus dias cuidando da minha propriedade,
+            plantando e cuidando do sítio. No entanto, o chamado por novos desafios era inegável.
+            </p>
+            <p className={styles.paragrafo}>
+            Assumi o papel de auxiliar operacional em uma distribuidora de bebidas, e foi aí que a chama do conhecimento se acendeu.
+            Essa busca incessante por aprender me levou a um território inexplorado: o mundo da programação.
+            </p>
+           
+            <p className={styles.paragrafo}>
+            Cada linha de código é uma oportunidade de crescimento, e estou determinado a me tornar um especialista nessa
+            área em constante evolução. Meu nome é Wallace Tadeu, e minha jornada está apenas começando.
             </p>
             <p className={styles.paragrafo}>
             Imagina só, mergulhei nesse universo e não consegui parar de estudar desde então! Meu foco principal
