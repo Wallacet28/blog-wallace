@@ -27,16 +27,15 @@ export default function SobreMim() {
             <p className={styles.paragrafo}>
             Assumi o papel de auxiliar operacional em uma distribuidora de bebidas, e foi aí que a chama do conhecimento se acendeu.
             Essa busca incessante por aprender me levou a um território inexplorado: o mundo da programação.
-            </p>
-           
-            <p className={styles.paragrafo}>
-            Cada linha de código é uma oportunidade de crescimento, e estou determinado a me tornar um especialista nessa
-            área em constante evolução. Meu nome é Wallace Tadeu, e minha jornada está apenas começando.
-            </p>
+            </p>             
             <p className={styles.paragrafo}>
             Imagina só, mergulhei nesse universo e não consegui parar de estudar desde então! Meu foco principal
              tem sido o desenvolvimento FRONT-END para aplicações web. Eu realmente quero me tornar um especialista
               nessa área dinâmica e sempre evoluindo.
+            </p>
+            <p className={styles.paragrafo}>
+            Cada linha de código é uma oportunidade de crescimento, e estou determinado a me tornar um especialista nessa
+            área em constante evolução, e minha jornada está apenas começando.
             </p>
             <p className={styles.paragrafo}>
             Ah, sobre minha educação, ela foi moldada por valores sólidos que meus pais me ensinaram desde cedo.
